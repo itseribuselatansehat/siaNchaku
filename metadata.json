@@ -1,0 +1,7 @@
+{
+  "name": "AsistenKu - Asisten Pribadi Digital",
+  "description": "AsistenKu: Asisten pribadi yang tidak pernah lupa. Kelola tugas, agenda, catatan harian, pengingat cerdas, follow up, dan AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
